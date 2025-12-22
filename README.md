@@ -1,1 +1,1 @@
-### The following program integrates the pretrained RetinaNet model from the Keras_CV module into a real time video feed that provides the user with object detection for the provided label names in real time.
+### The following program integrates the pretrained RetinaNet model from the Keras_CV module into a real time video feed that provides the user with object detection for the provided label names.
